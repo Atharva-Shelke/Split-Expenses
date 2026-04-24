@@ -1,12 +1,12 @@
-# SplitExpenses
+# 💸 SplitExpenses
 
 A full-stack group expense management application designed to manage shared expenses, settlements, and balances among members.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Backend
+### 🔙 Backend
 
 * Java 17+
 * Spring Boot
@@ -14,13 +14,13 @@ A full-stack group expense management application designed to manage shared expe
 * Oracle Database (Stored Procedures & Triggers)
 * Maven
 
-### Frontend
+### 🎨 Frontend
 
 * Angular
 * TypeScript
 * HTML / CSS
 
-### Database
+### 🗃️ Database
 
 * Oracle SQL
 * Stored Procedures
@@ -28,7 +28,7 @@ A full-stack group expense management application designed to manage shared expe
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 split-expenses/
@@ -41,7 +41,7 @@ split-expenses/
 
 ---
 
-## Prerequisites
+## 📋 Prerequisites
 
 Ensure the following are installed:
 
@@ -54,7 +54,7 @@ Ensure the following are installed:
 
 ---
 
-## Application Features
+## ✨ Application Features
 
 * User authentication
 * Group creation and management
@@ -66,7 +66,7 @@ Ensure the following are installed:
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 Developed as a full-stack learning project to demonstrate backend, frontend, and database integration.
 For detailed architecture and setup instructions, see DESIGN_AND_SETUP.md.
